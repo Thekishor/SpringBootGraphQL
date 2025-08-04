@@ -4,14 +4,14 @@ This project is a backend application built using **Spring Boot**, providing bot
 
 ## Features
 
-- ✅ GraphQL API: queries and mutations for flexible data access
-- ✅ REST API: standard endpoints for compatibility
-- ✅ GraphQL Client: uses `WebClient` to fetch data from external GraphQL services
-- ✅ DTOs and MapStruct for clean entity-data separation
-- ✅ Input validation using `javax.validation` annotations
-- ✅ Global exception handling with custom error response
-- ✅ Spring Data JPA integration
-- ✅ Modular architecture: `Controller → Service → Repository`
+- GraphQL API: queries and mutations for flexible data access
+- REST API: standard endpoints for compatibility
+- GraphQL Client: uses `WebClient` to fetch data from external GraphQL services
+- DTOs and MapStruct for clean entity-data separation
+- Input validation using `javax.validation` annotations
+- Global exception handling with custom error response
+- Spring Data JPA integration
+- Modular architecture: `Controller → Service → Repository`
 
 ## Tech Stack
 
