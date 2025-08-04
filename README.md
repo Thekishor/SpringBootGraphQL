@@ -25,7 +25,7 @@ This project is a backend application built using **Spring Boot**, providing bot
 - `WebClient` (GraphQL Client)
 - `MySQL`
 
-  ## Ports
+## Ports
   - Port:9090 -> Inventory Service
   - Port:9091 -> Catalog Service
 
