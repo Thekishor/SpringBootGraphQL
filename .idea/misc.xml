@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-graphQl/pom.xml" />
+        <option value="$PROJECT_DIR$/graphQl-boot/pom.xml" />
       </list>
     </option>
   </component>
